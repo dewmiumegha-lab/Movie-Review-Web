@@ -28,15 +28,6 @@ A modern, sleek, and fully functional **Movie Review Web Application** built wit
 
 ---
 
-## 📸 Screenshots
-
-| Desktop View | Mobile View |
-| :--- | :--- |
-| ![Main UI](https://via.placeholder.com/600x400?text=Cinema+Theme+UI) | ![Mobile UI](https://via.placeholder.com/200x400?text=Mobile+Responsive) |
-
-*(Note: Replace these placeholders with your actual project screenshots)*
-
----
 
 ## 🛠️ Setup & Installation
 
