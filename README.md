@@ -31,9 +31,8 @@ A modern, sleek, and fully functional **Movie Review Web Application** built wit
 
 ## 🛠️ Setup & Installation
 
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/your-username/movie-review-app.git](https://github.com/your-username/movie-review-app.git)
+
+  
 Firebase Configuration:
 
 Go to the Firebase Console.
