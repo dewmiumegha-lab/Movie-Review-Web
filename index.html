@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Movie Reviews</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1> Movie Review App</h1>
+
+<div class="form">
+  <input type="text" id="name" placeholder="Movie Name">
+  <input type="number" id="rating" placeholder="Rating (0-5)">
+  <input type="text" id="director" placeholder="Director">
+  <input type="date" id="date">
+
+  <button onclick="addMovie()">Add Movie</button>
+</div>
+
+<br>
+
+<select onchange="sortMovies(this.value)">
+  <option value="name">Sort by Name</option>
+  <option value="rating">Sort by Rating</option>
+  <option value="director">Sort by Director</option>
+  <option value="date">Sort by Date</option>
+</select>
+
+<ul id="list"></ul>
+
+<script type="module" src="script.js"></script>
+
+</body>
+</html>
